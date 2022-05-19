@@ -13,7 +13,7 @@ Me chamo André Luis, em 2022 me formei com o Certificado da CTFL no Conselho Br
   <img align="center" alt="Dregodblack-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Dregodblack-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  <img align="right" alt="Dregodblack-pic" src="https://discord.com/channels/@me/976849438217764944/976849473097588787" />
+  <img align="right" alt="Dregodblack-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/11534_u9ju1SyJ.png" />
 </div>
    
  ##

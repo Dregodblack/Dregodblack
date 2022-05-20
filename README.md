@@ -10,9 +10,10 @@ Me chamo André Luis, em 2022 me formei com o Certificado da CTFL no Conselho Br
   
   <div style="display: inline_block"><br>
   <a href ="https://www.python.org/" ><img align="center" alt="Dregodblack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Dregodblack-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  <img align="center" alt="Dregodblack-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-  <img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <a href ="https://www.ruby-lang.org/pt/" ><img align="center" alt="Dregodblack-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <a href ="https://cucumber.io/" ><img align="center" alt="Dregodblack-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+  <a href ="https://www.selenium.dev/" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+    
   <img align="right" alt="Dregodblack-pic" height="231" width="234" src="https://picrew.me/shareImg/org/202205/11534_u9ju1SyJ.png" />
 </div>
    

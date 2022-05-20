@@ -9,11 +9,11 @@ Me chamo André Luis, em 2022 me formei com o Certificado da CTFL no Conselho Br
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Dregodblack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <a href ="https://www.python.org/" ><img align="center" alt="Dregodblack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Dregodblack-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Dregodblack-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  <img align="right" alt="Dregodblack-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/11534_u9ju1SyJ.png" />
+  <img align="right" alt="Dregodblack-pic" height="231" width="234" src="https://picrew.me/shareImg/org/202205/11534_u9ju1SyJ.png" />
 </div>
    
  ##

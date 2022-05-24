@@ -14,8 +14,7 @@ Aqui estão algumas ferramentas que já utilizei...
 <div align="center">
    <a href="https://github.com/Dregodblack">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-     
-   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&layout=compact&langs_count=7&theme=chartreuse-dark&[![Top Langs]    (https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&layout=compact&langs_count=7&theme=chartreuse-dark&[![Top Langs]    (https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)"/>
 </div>   
   
 <div style="display: inline_block"><br>

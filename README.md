@@ -4,7 +4,6 @@
 
 Me chamo André Luis, em 2022 me formei com o Certificado da CTFL no Conselho Brasileiro de Qualificações para Testes de Software da ISTQB, e atualmente estou atuando na área de Desenvolvimento de Software realizando testes Automatizados ao longo do ciclo de desenvolvimento. Já Automatizei em Python, Robot Framework e agora estou automatizando com Ruby em paralelo Cypress e Cursando Sistemas da Informação!
 
-
 ### Tecnologias 💻⚡
   
 ##
@@ -23,13 +22,11 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://cucumber.io/" ><img align="center" alt="Dregodblack-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <a href ="https://www.selenium.dev/" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+    
+  <a href ="https://robotframework.org/" ><img align="center" alt="Dregodblack-RobotFramework" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg?sanitize=true)" />
 </div>
     
 ##
-
-
-    
-   
     
 ### Contatos 📞
     

@@ -23,10 +23,11 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://cucumber.io/" ><img align="center" alt="Dregodblack-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <a href ="https://www.selenium.dev/" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-
+</div>
+    
 ##
 
-</div>
+
     
    
     

@@ -23,7 +23,7 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://www.selenium.dev/" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     
-  <a href ="https://robotframework.org/" ><img align="center" alt="Dregodblack-RobotFramework" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg?sanitize=true)" />
+  <a href ="https://robotframework.org/" ><img align="center" alt="Dregodblack-RobotFramework" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark (https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg?sanitize=true)" />
 </div>
     
 ##

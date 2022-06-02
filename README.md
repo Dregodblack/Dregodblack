@@ -2,7 +2,7 @@
 
 ##
 
-Me chamo André Luis, em 2022 me formei com o Certificado da CTFL no Conselho Brasileiro de Qualificações para Testes de Software da ISTQB, e atualmente estou atuando na área de Desenvolvimento de Software realizando testes Automatizados ao longo do ciclo de desenvolvimento. Já Automatizei em Python, Robot Framework e agora estou automatizando com Ruby em paralelo Cypress e Cursando Sistemas da Informação!
+Me chamo André Luis, recentemente me formei com o Certificado da CTFL no Conselho Brasileiro de Qualificações para Testes de Software da ISTQB, e atualmente estou atuando na área de Desenvolvimento de Software realizando testes Automatizados ao longo do ciclo de desenvolvimento. Já Automatizei em Python, Robot Framework e agora estou automatizando com Ruby em paralelo Cypress e Cursando Sistemas da Informação!
 
 ### Tecnologias 💻⚡
   

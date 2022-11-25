@@ -14,7 +14,6 @@ Aqui estão algumas ferramentas que já utilizei...
   
   <a href="https://github.com/Dregodblack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&repo=github-readme-stats&theme=chartreuse-dark"/>
 </div> 
   
@@ -26,6 +25,8 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://www.ruby-lang.org/pt/" ><img align="center" alt="Dregodblack-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <a href ="https://cucumber.io/" ><img align="center" alt="Dregodblack-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
   <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+    
+src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
     
 ##

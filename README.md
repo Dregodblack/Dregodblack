@@ -39,7 +39,7 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <div align="right">     
     
- <a title="Dregodblack-pic" target="_blank"><img width="250" height="250" border="0"  src="https://media.discordapp.net/attachments/796134895663054858/1054263952516853761/Git.gif?width=406&height=406" />
+ <a title="Dregodblack-pic" target="_blank"><img width="250" height="250" border="0"  src="" />
 </div>
  
   ![Snake animation](https://github.com/Dregodblack/Dregodblack/blob/output/github-contribution-grid-snake.svg)

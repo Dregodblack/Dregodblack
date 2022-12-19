@@ -15,14 +15,11 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href="https://github.com/Dregodblack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&repo=github-readme-stats&theme=chartreuse-dark"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
-    
 </div> 
   
   
 <div style="display: inline_block"><br>
+  
   <a href ="https://www.python.org/" ><img align="center" alt="Dregodblack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <a href ="https://robotframework.org/" ><img align="center" alt="Dregodblack-RobotFramework" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg?sanitize=true" />
   <a href ="https://www.selenium.dev/" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />

@@ -15,6 +15,10 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href="https://github.com/Dregodblack">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&repo=github-readme-stats&theme=chartreuse-dark"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+    
 </div> 
   
   

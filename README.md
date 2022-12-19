@@ -30,7 +30,7 @@ Aqui estão algumas ferramentas que já utilizei...
  <img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
     
- <img title="Dregodblack-pic" align="right" target="_blank"><img width="250" height="250" border="0"  src="https://media.discordapp.net/attachments/796134895663054858/1054263952516853761/Git.gif?width=406&height=406" />
+ <img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/796134895663054858/1054263952516853761/Git.gif?width=406&height=406" />
 </div>
     
 ##

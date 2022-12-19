@@ -28,7 +28,7 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     
     
- <img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/796134895663054858/1054263952516853761/Git.gif?width=406&height=406" />
+ <img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/796134895663054858/1054269836068405258/Git.gif?width=406&height=406" />
 </div>
     
 ##

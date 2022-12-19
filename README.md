@@ -41,7 +41,7 @@ Aqui estão algumas ferramentas que já utilizei...
     
   <a href="https://www.criarbanner.com.br" title="Dregodblack-pic" target="_blank"><img width="250" height="246.385542169" border="0"  src="https://www.criarbanner.com.br/criargifs/a/5862a21479d497f8f2197f35aa43cbf3.gif" />  
     
- <a title="Dregodblack-pic" target="_blank"><img width="250" height="246.385542169" border="0"  src="https://media.discordapp.net/attachments/796134895663054858/1054263952516853761/Git.gif?width=406&height=406" />
+ <a title="Dregodblack-pic" target="_blank"><img width="150" height="246.385542169" border="0"  src="https://media.discordapp.net/attachments/796134895663054858/1054263952516853761/Git.gif?width=406&height=406" />
     
   </div>
  

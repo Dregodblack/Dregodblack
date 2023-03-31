@@ -28,7 +28,7 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
     
   <a href ="https://git-scm.com/" ><img align="center" alt="Dregodblack-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
-    
+  <i class="devicon-git-plain-wordmark "></i>
     
     
  <img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;"  src="devicon-git-plain-wordmark " />

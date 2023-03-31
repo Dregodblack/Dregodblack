@@ -29,6 +29,8 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://git-scm.com/" ><img align="center" alt="Dregodblack-git" height="30" width="40"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> 
 
 
+<img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/796134895663054858/1054269836068405258/Git.gif?width=406&height=406" />
+</div>
     
     
 ##

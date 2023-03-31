@@ -31,7 +31,7 @@ Aqui estão algumas ferramentas que já utilizei...
     
     
     
- <img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/796134895663054858/1054269836068405258/Git.gif?width=406&height=406" />
+ <img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;"  src="devicon-git-plain-wordmark " />
 </div>
     
 ##

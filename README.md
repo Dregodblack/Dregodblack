@@ -17,8 +17,11 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://www.selenium.dev/" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <a href ="https://www.ruby-lang.org/pt/" ><img align="center" alt="Dregodblack-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <a href ="https://cucumber.io/" ><img align="center" alt="Dregodblack-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-  <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <a href ="https://git-scm.com/" ><img align="center" alt="Dregodblack-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="Dregodblack-selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+  <a href ="https://git-scm.com/" ><img align="center" alt="Dregodblack-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML" ><img align="center" alt="Dregodblack-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS" ><img align="center" alt="Dregodblack-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" ><img align="center" alt="Dregodblack-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </div> 
 
 <img align="right" alt="Gif-Git_Dre" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/796134895663054858/1054269836068405258/Git.gif?width=406&height=406" />

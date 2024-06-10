@@ -7,9 +7,9 @@ Aqui estão algumas ferramentas que já utilizei...
 <div align="center">
   <a href="https://github.com/Dregodblack">
 <!--   layout commits/PR´s -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <!--   layout ferramentas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&repo=github-readme-stats&theme=chartreuse-dark&hide_progress=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&repo=github-readme-stats&theme=chartreuse-dark&hide_progress=false&layout=compact"/>
 </div> 
 
 

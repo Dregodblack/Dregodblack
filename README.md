@@ -2,18 +2,18 @@
 Me chamo André Luis, Analista de Engenharia de Qualidade, atualmente cursando o ensino superior no curso: Sistemas da Informação, e atuando na área de desenvolvimento de software na posição de QA, realizando testes ao longo do ciclo de desenvolvimento, possuo a CTFL certificado brasileiro de qualificações para testes de software da ISTQB, e com isso acredito que tenho o conhecimento necessário para ser um excelente profissional e garantir a entrega de software em alta qualidade.
 ##
 
+
 ### Tecnologias 💻⚡
 Aqui estão algumas ferramentas que já utilizei...
-
 <div align="center">
   <a href="https://github.com/Dregodblack">
-<!--   layout ferramentas -->
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&theme=chartreuse-dark&hide_progress=true"/>
 <!--   layout commits/PR´s -->
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<!--   layout ferramentas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&theme=chartreuse-dark&hide_progress=false"/>
 </div> 
 
-    
+
 <div style="display: inline_block"><br>
 <!-- Listagem de icons -->
   <a href ="https://www.python.org/" ><img align="center" alt="Dregodblack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -37,6 +37,7 @@ Aqui estão algumas ferramentas que já utilizei...
   <a alt="Dregodblack-Linkedin" href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a alt="Dregodblack-Whatssapp" href= "https://wa.me/qr/2D2GIABFAQ5NC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div><br>
+
 
 <div> 
 <!-- gif cobrinha -->

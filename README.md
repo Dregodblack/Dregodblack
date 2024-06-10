@@ -4,6 +4,7 @@ Me chamo André Luis, Analista de Engenharia de Qualidade, atualmente cursando o
 
 ### Tecnologias 💻⚡
 Aqui estão algumas ferramentas que já utilizei...
+
 <div align="center">
   <a href="https://github.com/Dregodblack">
 <!--   layout commits/PR´s -->
@@ -12,7 +13,7 @@ Aqui estão algumas ferramentas que já utilizei...
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&theme=chartreuse-dark&hide_progress=true"/>
 </div> 
 
-
+    
 <div style="display: inline_block"><br>
 <!-- Listagem de icons -->
   <a href ="https://www.python.org/" ><img align="center" alt="Dregodblack-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -25,7 +26,7 @@ Aqui estão algumas ferramentas que já utilizei...
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/HTML" ><img align="center" alt="Dregodblack-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/CSS" ><img align="center" alt="Dregodblack-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" ><img align="center" alt="Dregodblack-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-</div> 
+</div>
 
 ##
     
@@ -35,9 +36,7 @@ Aqui estão algumas ferramentas que já utilizei...
   <a alt="Dregodblack-Email" href ="mailto:nascimento.andreluis18@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a alt="Dregodblack-Linkedin" href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a alt="Dregodblack-Whatssapp" href= "https://wa.me/qr/2D2GIABFAQ5NC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-</div>
-
-##
+</div><br>
 
 <div> 
 <!-- gif cobrinha -->

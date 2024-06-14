@@ -7,11 +7,11 @@ Me chamo André Luis, Analista de Engenharia de Qualidade, atualmente cursando o
 Aqui estão algumas ferramentas que já utilizei...
 <div align="center">
   <a href="https://github.com/Dregodblack">
-<!--   layout commits/PR´s -->
-  <img height="180em" alt="layout-commits" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&&layout=compact&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<!--   layout ferramentas -->
-  <img height="180em" alt="layout-ferramentas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&theme=chartreuse-dark&hide_progress=false"/>
-</div> 
+<!--   layout estatisticas -->
+  <img height="180em" alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<!--   layout linguagens -->
+  <img height="180em" alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&theme=chartreuse-dark&hide_progress=false"/>
+</div>
 
 
 <div style="display: inline_block"><br>

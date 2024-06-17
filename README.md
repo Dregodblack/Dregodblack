@@ -7,7 +7,7 @@ Me chamo André Luis, Analista de Engenharia de Qualidade, atualmente cursando o
 Aqui estão algumas ferramentas que já utilizei...
 <div align="center" style="display: inline_block">
 <!--   layout estatisticas -->
-  <img height="180em" alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true&count_private=true"/>
 <!--   layout linguagens -->
   <img height="180em" alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=false"/>
 </div><br>
@@ -50,5 +50,5 @@ Aqui estão algumas ferramentas que já utilizei...
 
 <div>
   <!-- gif Programação -->
-  <img alt="gif-Programação" align="center" alt="Dregodblack-Gif-Programacao" width="1100" height="200" style="border-radius:50px;" src="https://media1.tenor.com/m/8a4RLpiWkIQAAAAC/nft.gif" />
+  <img alt="gif-Programação" align="center" alt="Gif-Programacao" width="1100" height="200" style="border-radius:50px;" src="https://media1.tenor.com/m/8a4RLpiWkIQAAAAC/nft.gif"/>
 </div>

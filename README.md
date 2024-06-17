@@ -41,7 +41,7 @@ Aqui estão algumas ferramentas que já utilizei...
 
 <div> 
 <!-- gif cobrinha -->
-<img alt="gif-cobrinha" align="right" alt="Dregodblack-Gif" height="150" style="border-radius:50px;" src="![snake gif](https://github.com/Dregodblack/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)"/>
+<!-- <img alt="gif-cobrinha" align="right" alt="Dregodblack-Gif" height="150" style="border-radius:50px;" src="![snake gif](https://github.com/Dregodblack/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)"/> -->
 </div>
    
 <div>

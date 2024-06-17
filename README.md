@@ -43,8 +43,8 @@ Aqui estão algumas ferramentas que já utilizei...
 <div align="center">
 <!-- gif cobrinha -->
   <picture>
-    <source srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-    <source srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
     <img alt="gif_snake" src="https://raw.githubusercontent.com/Dregodblack/Dregodblack/output/github-contribution-grid-snake.svg">
   </picture>
 </div><br>

@@ -6,11 +6,11 @@ Me chamo André Luis, Analista de Engenharia de Qualidade, atualmente cursando o
 
 ### Tecnologias 💻⚡
 Aqui estão algumas ferramentas que já utilizei...
-<div style="display: flex" style="flex-direction: row">
+<div align="center">
 <!--   layout estatisticas -->
-  <img align="center" alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true&count_private=true"/>
+  <img height="180em" width=400px alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true&count_private=true"/>
 <!--   layout linguagens -->
-  <img height="180em" align="center" alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=false"/>
+  <img height="180em" width=400px alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=false"/>
 </div><br>
 
 <div style="display: inline_block">

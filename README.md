@@ -3,13 +3,14 @@
 Me chamo André Luis, Analista de Engenharia de Qualidade, atualmente cursando o ensino superior no curso: Sistemas da Informação, e atuando na área de desenvolvimento de software na posição de QA, realizando testes ao longo do ciclo de desenvolvimento, possuo a CTFL certificado brasileiro de qualificações para testes de software da ISTQB, e com isso acredito que tenho o conhecimento necessário para ser um excelente profissional e garantir a entrega de software em alta qualidade.
 ##
 
+
 ### Tecnologias 💻⚡
 Aqui estão algumas ferramentas que já utilizei...
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
 <!--   layout estatisticas -->
-  <img height="180em" alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true&count_private=true"/>
+  <img align="center" alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true&count_private=true"/>
 <!--   layout linguagens -->
-  <img height="180em" alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=false"/>
+  <img height="180em" align="center" alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=false"/>
 </div><br>
 
 <div style="display: inline_block">

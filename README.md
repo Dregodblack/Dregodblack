@@ -10,11 +10,11 @@ Aqui estão algumas ferramentas que já utilizei...
 <!--   layout estatisticas -->
   <img height="180em" alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <!--   layout linguagens -->
-  <img height="180em" alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dregodblack&theme=chartreuse-dark&hide_progress=false"/>
-</div>
+  <img height="180em" alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=false"/>
+</div><br>
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 <!-- Listagem de icons -->
   <a href ="https://www.python.org/" ><img align="center" alt="icone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <a href ="https://robotframework.org/" ><img align="center" alt="icone-RobotFramework" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg?sanitize=true"/>
@@ -41,7 +41,7 @@ Aqui estão algumas ferramentas que já utilizei...
 
 <div> 
 <!-- gif cobrinha -->
-<img alt="gif-cobrinha" align="right" alt="Dregodblack-Gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/796134895663054858/1054269836068405258/Git.gif?width=406&height=406"/>
+<img alt="gif-cobrinha" align="right" alt="Dregodblack-Gif" height="150" style="border-radius:50px;" src="![snake gif](https://github.com/Dregodblack/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)"/>
 </div>
    
 <div>

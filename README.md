@@ -5,7 +5,7 @@ Me chamo André Luis, Analista de Engenharia de Qualidade, atualmente cursando o
 
 ### Tecnologias 💻⚡
 Aqui estão algumas ferramentas que já utilizei...
-<div align="center">
+<div align="center" style="display: inline_block">
 <!--   layout estatisticas -->
   <img height="180em" alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <!--   layout linguagens -->

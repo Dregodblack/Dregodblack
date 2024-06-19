@@ -10,7 +10,7 @@ Aqui estão algumas ferramentas que já utilizei...
 <!--   layout estatisticas -->
   <img height="180em" width=400px alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true&count_private=true"/>
 <!--   layout linguagens -->
-  <img height="180em" width=400px alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=false"/>
+  <img height="180em" width=400px alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=true"/>
 </div><br>
 
 <div style="display: inline_block">

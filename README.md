@@ -1,5 +1,5 @@
 <!--   Breve Descrição -->
-### Bem vindo(a) 👋🏽
+### Olá, Bem vindo 👋🏽
 Me chamo André Luis, atualmente atuando como: "Analista de Engenharia de Qualidade", cursando o ensino superior no curso “Sistemas da Informação”, e atuando na área de desenvolvimento de software na posição de QA, realizando testes ao longo do ciclo de desenvolvimento, possuo a CTFL - certificado brasileiro de qualificações para testes de software da ISTQB, além disso estou sempre em busca de conhecimento para me aprimorar e ser um excelente profissional garantindo a entrega de software de alta qualidade.
 ##
 

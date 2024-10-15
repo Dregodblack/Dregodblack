@@ -2,7 +2,7 @@
 ### Olá, Bem vindo 👋🏽
 Me chamo André Luis!<br>
 Atualmente cursando o ensino superior no curso: “Sistemas da Informação”, e atuando na área de desenvolvimento de software na posição de: "Analista de Engenharia de Qualidade" realizando testes ao longo dos ciclos de vida, metodologias e processos!
-Possuo as certificações: "CTFL" e "CTFL-AT", certificado de qualificações para testes de software da ISTQB, além disso sigo em busca de conhecimento para me aprimorar e ser um excelente profissional garantindo uma entrega de software de alta qualidade.
+Possuo as certificações: "CTFL" e "CTFL-AT", certificado de qualificações para testes de software da ISTQB, além disso sigo em busca de conhecimentos para me aprimorar e ser um excelente profissional garantindo uma entrega de software de alta qualidade.
 ##
 
 

@@ -1,7 +1,7 @@
 <!--   Breve Descrição -->
 ### Olá, Bem vindo 👋🏽
 Me chamo André Luis!<br>
-Atualmente na posição de "QA", realizando testes ao longo dos ciclos de vida, metodologias e processos... E atuando na área de desenvolvimento de software, sigo em busca de conhecimentos para me aprimorar e ser um excelente profissional garantindo uma entrega de software de alta qualidade.
+E atualmente na posição de "QA", realizando testes ao longo dos ciclos de vida, metodologias e processos... E atuando na área de desenvolvimento de software, sigo em busca de conhecimentos para me aprimorar e ser um excelente profissional garantindo uma entrega de software de alta qualidade.
 
 <!--  Linha de separação -->
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
@@ -23,7 +23,9 @@ Atualmente na posição de "QA", realizando testes ao longo dos ciclos de vida, 
 <!-- Listagem de icons -->
 <div align="center" style="display: inline_block">
   <a href ="https://git-scm.com/" ><img align="center" alt="icone-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-  <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="icone-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+  <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="icone-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+  <a href ="https://www.postman.com/" ><img align="center" alt="icone-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+  <a href ="https://www.jenkins.io/" ><img align="center" alt="icone-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"/>
   <a href ="https://robotframework.org/" ><img align="center" alt="icone-RobotFramework" height="30" width="40" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg?sanitize=true"/>
   <a href ="https://www.python.org/" ><img align="center" alt="icone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <a href ="https://cucumber.io/" ><img align="center" alt="icone-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>

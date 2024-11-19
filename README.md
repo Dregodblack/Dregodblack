@@ -42,8 +42,8 @@ E atualmente na posição de "QA", realizando testes ao longo dos ciclos de vida
 <!--   Links de contatos -->
 ### Contatos 📞
 <div align="left">
-  <a alt="icone-Email" href ="mailto:nascimento.andreluis18@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a alt="icone-Linkedin" href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a alt="icone-Email" href ="mailto:nascimento.andreluis18@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a alt="icone-Whatssapp" href= "https://wa.me/qr/2D2GIABFAQ5NC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div><br>
 

@@ -1,7 +1,7 @@
 <!--   Breve Descrição -->
-### Olá, Bem vindo 👋🏽
-Me chamo André Luis!<br>
-E atualmente na posição de "QA", realizando testes ao longo dos ciclos de vida, metodologias e processos... E atuando na área de desenvolvimento de software, sigo em busca de conhecimentos para me aprimorar e ser um excelente profissional garantindo uma entrega de software de alta qualidade.
+### Olá, seja bem-vindo(a) ao meu portfólio!
+Aqui você encontrará projetos de automação de testes que desenvolvi, utilizando diferentes linguagens de programação e ferramentas voltadas à garantia de qualidade.<br>
+Explore e conheça um pouco do meu trabalho!
 
 <!--  Linha de separação -->
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

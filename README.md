@@ -1,6 +1,6 @@
 <!--   Breve Descrição -->
 ### Olá, Bem-vindo(a) ao meu portfólio!
-Aqui você encontrará projetos de automação de testes e uma aplicação web que desenvolvi, utilizando diferentes linguagens de programação e ferramentas voltadas à garantia de qualidade.<br>
+Aqui você encontrará projetos de automação de testes que desenvolvi, utilizando diferentes linguagens de programação e ferramentas voltadas à garantia de qualidade, também realizei a criação de uma aplicação front-end de um "Player de Musica" para aprimorar meus conhecimentos de QA.<br>
 Explore e conheça um pouco do meu trabalho!
 
 <!--  Linha de separação -->

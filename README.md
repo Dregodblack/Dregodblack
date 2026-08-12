@@ -57,7 +57,7 @@ Explore e conheça um pouco do meu trabalho!
   </picture>
 </div><br>
 
-<!-- gif Programação -->
+<!-- gif Home-office -->
 <div>
-  <img alt="gif-Programação" align="center" alt="Gif-Programacao" width="1100" height="200" style="border-radius:50px;" src="https://media1.tenor.com/m/8a4RLpiWkIQAAAAC/nft.gif"/>
+  <img alt="gif-Home-office" align="center" width="1100" height="200" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnOgorbD7h7URDTkIBb79KxN0p5X4dmMNvnV4-YC6hEbp5NSFN_hUJKodJpxZY23YXPJFLtzkBYHgaE6uHbou5Xb9oJH37nv8ry_5wEg6WKutLzSlCGK8tuvucdAuq6aL74q-erfvBNHFO/s1600/ROTINA-TRABALHA-E-DORME.gif"/>
 </div>

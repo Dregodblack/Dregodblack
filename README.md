@@ -35,11 +35,11 @@ Explore e conheça um pouco do meu trabalho!
 
 | 💻 Automações Web   | 📱 Automações Mobile | 🔌 API Testing      | 🌐 Aplicações Web    |
 |:---:                 |:---:                 |:---:                 |:---:                 |
-| **4**                                                                                          | **2**                      | **3**                              | **1**                        |
-| ![Test_Desafio]([link](https://github.com/Dregodblack/Test_Desafio))                           | ![TestMobile-Python](link) | ![TestAPI-PythonRobotF](link)      | ![Project_MusicPlayer](link) |
-| ![TestWeb-PythonRobotF]([link](https://github.com/Dregodblack/TestWeb-PythonRobotF))           | ![TestMobile-Ruby](link)   | ![TestAPI-RubyCucumber](link)      |                              |
-| ![TestWeb-RubyCucumber]([link](https://github.com/Dregodblack/TestWeb-RubyCucumber))           |                            | ![Test_Web_API-PythonRobotF](link) |                              | 
-| ![Test_Web_API-PythonRobotF]([link](https://github.com/Dregodblack/Test_Web_API-PythonRobotF)) |                            |                                    |                              |
+| 4                    | 2                    | 3                    | 1                    |
+|**[Test_Desafio](https://github.com/Dregodblack/Test_Desafio)**|**[TestMobile-Python](https://github.com/Dregodblack/TestMobile-Python)**|**[TestAPI-PythonRobotF](https://github.com/Dregodblack/TestAPI-PythonRobotF)**     |**[Project_MusicPlayer-JavaScript](https://github.com/Dregodblack/Project_MusicPlayer-JavaScript)**|
+|**[TestWeb-PythonRobotF](https://github.com/Dregodblack/TestWeb-PythonRobotF)**|**[TestMobile-Ruby](https://github.com/Dregodblack/TestMobile-Ruby)**|**[TestAPI-RubyCucumber](https://github.com/Dregodblack/TestAPI-RubyCucumber)**|-|
+|**[TestWeb-RubyCucumber](https://github.com/Dregodblack/TestWeb-RubyCucumber)**|-|**[Test_Web_API-PythonRobotF](https://github.com/Dregodblack/Test_Web_API-PythonRobotF)**|-| 
+|**[Test_Web_API-PythonRobotF](https://github.com/Dregodblack/Test_Web_API-PythonRobotF)**|-|-|-|
 
 <!-- Listagem das IA's -->
 ### 🤖 Inteligência Artificial

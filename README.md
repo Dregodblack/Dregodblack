@@ -42,13 +42,13 @@ Explore e conheça um pouco do meu trabalho!
 |**[Test_Web_API-PythonRobotF](https://github.com/Dregodblack/Test_Web_API-PythonRobotF)**|-|-|-|
 
 <!-- Listagem das IA's -->
-### 🤖 Inteligência Artificial
+### 🤖 Inteligência Artificial Utilizada para aprimoramento pessoal
 
 ChatGPT • Gemini • N8N • Copilot <br>
-**[▸  Ver Documentação da IA ChatGPT](https://chatgpt.com/)**<br>
-**[▸  Ver Documentação da IA Gemini](https://gemini.google.com/app)**<br>
-**[▸  Ver Documentação da IA N8N](https://n8n.io/)**<br>
-**[▸  Ver Documentação da IA Copilot](https://github.com/copilot)**<br>
+**[▸  Acessar IA ChatGPT](https://chatgpt.com/)**<br>
+**[▸  Acessar IA Gemini](https://gemini.google.com/app)**<br>
+**[▸  Acessar agente de IA N8N](https://n8n.io/)**<br>
+**[▸  Acessar IA Copilot](https://github.com/copilot)**<br>
 
 <!-- Listagem de icons -->
 ### ⭐ Competências<br><br>

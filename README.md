@@ -11,8 +11,7 @@
 <body> 
 <header>
 <div align="center">
-<h1> André Luis </h1>
-<h2> QA | Test Automation | Software Quality </h2>
+<h1> QA | Test Automation | Software Quality </h1>
 
 <p>
 Profissional de QA com experiência em testes Manuais, Automação de testes, API Testing, IA e Desenvolvimento web... Apaixonado por tecnologia, qualidade e melhoria contínua.<br>

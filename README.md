@@ -68,10 +68,18 @@ ChatGPT • Gemini • N8N • Copilot <br>
   <a href ="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" ><img align="center" alt="icone-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </div><br>
 
+
 <!--   layout estatisticas -->
 <!-- <img height="180em" width=400px alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true&count_private=true"/> -->
 <!--   layout linguagens -->
 <!-- <img height="180em" width=400px alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=true"/> -->
+
+
+<!--   Sub-temas -->
+<!-- <details>
+<summary> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Top Languages</summary>
+<p><img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/username=_______height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=dracula"></p>
+</details> -->
 
 
 <!--  Linha brilhante de separação 2 -->

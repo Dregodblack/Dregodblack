@@ -50,7 +50,7 @@ ChatGPT • Gemini • N8N • Copilot <br>
 **[▸  Acessar IA ChatGPT](https://chatgpt.com/)**<br>
 **[▸  Acessar IA Gemini](https://gemini.google.com/app)**<br>
 **[▸  Acessar agente de IA N8N](https://n8n.io/)**<br>
-**[▸  Acessar IA Copilot](https://github.com/copilot)**
+**[▸  Acessar IA GitHub Copilot](https://github.com/copilot)**
 </details>
 
 <details>
@@ -59,12 +59,41 @@ ChatGPT • Gemini • N8N • Copilot <br>
 ▸ Estudos<br>
 ▸ Automação<br>
 ▸ Documentação<br>
-▸ Refatoração de Código<br>
+▸ Resolução de problemas<br>
 </details><br>
 
 
 <!-- Listagem de icons -->
 ### ⭐ Competências & Hard Skills<br><br>
+
+<!-- Lista de Competências em containers e blocos separados um do lado do outro -->
+<!-- <section align="center" style="display: inline_block">
+  
+<div align="center" height="50" width="50">
+<details>
+<summary> Testing </summary><br>
+  
+▸ 1<br>
+▸ 2<br>
+▸ 3<br>
+▸ 4<br>
+▸ 5<br>
+</details>
+</div>
+
+<div align="center" height="50" width="50">
+<details>
+<summary> Automation </summary><br>
+  
+▸ 1<br>
+▸ 2<br>
+▸ 3<br>
+▸ 4<br>
+▸ 5<br>
+</details>
+</div>
+
+</section><br> -->
 
 Testes Exploratórios ▸ Testes Manuais ▸ Testes Automatizados Web ▸ Testes Automatizados API ▸ Testes Automatizados Mobile ▸ Testes de Regressão ▸ Testes E2E ▸ Gestão e análise de Bugs ▸ Melhoria de processos de QA
 

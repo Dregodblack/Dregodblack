@@ -1,6 +1,6 @@
+<!--  Inicio -->
 <!DOCTYPE html>
 <html lang="pt-BR">
-  
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,13 +11,11 @@
 <body> 
 <header>
 <div align="center">
-<h1> QA | Test Automation | Software Quality </h1>
-
+<h1> QA Engineer | Test Automation | API & Mobile Testing </h1>
 <p>
-Profissional de QA com experiência em testes Manuais, Automação de testes, API Testing, IA e Desenvolvimento web... Apaixonado por tecnologia, qualidade e melhoria contínua.<br>
+Profissional de QA com experiência em testes manuais e automatizados, API Testing e validação de aplicações Web e Mobile... Busco soluções em automação utilizando diferentes linguagens e ferramentas de IA ou agentes... Apaixonado por trazer a qualidade dentro da equipe ou projeto, visando eficiência e uma entrega bem feita para o usuário final.<br>
 Explore e conheça um pouco do meu trabalho!
 </p><br>
-
 </div>
 </header>
 
@@ -26,9 +24,9 @@ Explore e conheça um pouco do meu trabalho!
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-<!--   Container body_Tech -->
+<!--   Container body -->
 <div align="center">
-
+  
 <!-- Métrica dos Repositórios -->
 ### 📊 Projetos de QA Desenvolvidos
 
@@ -40,17 +38,35 @@ Explore e conheça um pouco do meu trabalho!
 |**[TestWeb-RubyCucumber](https://github.com/Dregodblack/TestWeb-RubyCucumber)**|-|**[Test_Web_API-PythonRobotF](https://github.com/Dregodblack/Test_Web_API-PythonRobotF)**|-| 
 |**[Test_Web_API-PythonRobotF](https://github.com/Dregodblack/Test_Web_API-PythonRobotF)**|-|-|-|
 
-<!-- Listagem das IA's -->
-### 🤖 Inteligência Artificial Utilizada para aprimoramento pessoal
 
+<!-- Listagem das IA's -->
+<!--   Sub-temas -->
+### 🤖 Inteligência Artificial
+<br>
+<details>
+<summary> Tipos de IA & Agentes Utilizados: </summary><br>
 ChatGPT • Gemini • N8N • Copilot <br>
+
 **[▸  Acessar IA ChatGPT](https://chatgpt.com/)**<br>
 **[▸  Acessar IA Gemini](https://gemini.google.com/app)**<br>
 **[▸  Acessar agente de IA N8N](https://n8n.io/)**<br>
-**[▸  Acessar IA Copilot](https://github.com/copilot)**<br>
+**[▸  Acessar IA Copilot](https://github.com/copilot)**
+</details>
+
+<details>
+<summary> Utilização da Inteligência Artificial para apoio em: </summary><br>
+▸ Produtividade<br>
+▸ Estudos<br>
+▸ Automação<br>
+▸ Documentação<br>
+▸ Refatoração de Código<br>
+</details><br>
+
 
 <!-- Listagem de icons -->
-### ⭐ Competências<br><br>
+### ⭐ Competências & Hard Skills<br><br>
+
+Testes Exploratórios ▸ Testes Manuais ▸ Testes Automatizados Web ▸ Testes Automatizados API ▸ Testes Automatizados Mobile ▸ Testes de Regressão ▸ Testes E2E ▸ Gestão e análise de Bugs ▸ Melhoria de processos de QA
 
 <div align="center" style="display: inline_block">
   <a href ="https://github.com/" ><img align="center" alt="icone-GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
@@ -69,38 +85,29 @@ ChatGPT • Gemini • N8N • Copilot <br>
 </div><br>
 
 
-<!--   layout estatisticas -->
-<!-- <img height="180em" width=400px alt="layout-estatisticas" src="https://github-readme-stats.vercel.app/api?username=Dregodblack&rank_icon=github&theme=chartreuse-dark&layout=compact&include_all_commits=true&count_private=true"/> -->
-<!--   layout linguagens -->
-<!-- <img height="180em" width=400px alt="layout-linguagens" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dregodblack&theme=chartreuse-dark&hide=RobotFramework&layout=compact&hide_progress=true"/> -->
-
-
-<!--   Sub-temas -->
-<!-- <details>
-<summary> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Top Languages</summary>
-<p><img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/username=_______height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&theme=dracula"></p>
-</details> -->
-
-
 <!--  Linha brilhante de separação 2 -->
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+
 <!--   Links de contatos -->
 ### 🔗 Quer conhecer mais sobre meu trabalho?
+Vamos agendar um bate-papo, basta acessar alguns dos ícones abaixo e entrar em contato
 <div>
   <a alt="icone-Linkedin" href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a alt="icone-Email" href ="mailto:nascimento.andreluis18@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a alt="icone-Whatssapp" href= "https://wa.me/qr/2D2GIABFAQ5NC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a alt="icone-Email" href ="mailto:nascimento.andreluis18@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a alt="icone-WhatsApp" href= "https://wa.me/qr/2D2GIABFAQ5NC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div><br>
 
+
 <!-- gif cobrinha -->
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
     <img alt="gif_snake" src="https://raw.githubusercontent.com/Dregodblack/Dregodblack/output/github-contribution-grid-snake.svg">
   </picture>
-</div><br>
+</div><br> -->
+
 
 <!-- gif Home-office -->
 <div>

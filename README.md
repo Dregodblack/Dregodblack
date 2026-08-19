@@ -8,16 +8,13 @@
 
 
 <!--  Introdução -->
-<body> 
-<header>
-<div align="center">
+<body><header><div align="center">
 <h1> QA Engineer | Test Automation | API & Mobile Testing </h1>
 <p>
 Profissional de QA com experiência em testes manuais e automatizados, API Testing e validação de aplicações Web e Mobile... Busco soluções em automação utilizando diferentes linguagens e ferramentas de IA ou agentes... Apaixonado por trazer a qualidade dentro da equipe ou projeto, visando eficiência e uma entrega bem feita para o usuário final.<br>
 Explore e conheça um pouco do meu trabalho!
-</p><br>
-</div>
-</header>
+</p>
+<br></div></header>
 
 
 <!--  Linha brilhante de separação -->
@@ -43,8 +40,7 @@ Explore e conheça um pouco do meu trabalho!
 <!--   Sub-temas -->
 ### 🤖 Inteligência Artificial
 <br>
-<details>
-<summary> Tipos de IA & Agentes Utilizados: </summary><br>
+<details><summary> Tipos de IA & Agentes Utilizados: </summary><br>
 ChatGPT • Gemini • N8N • Copilot <br>
 
 **[▸  Acessar IA ChatGPT](https://chatgpt.com/)**<br>
@@ -53,8 +49,7 @@ ChatGPT • Gemini • N8N • Copilot <br>
 **[▸  Acessar IA GitHub Copilot](https://github.com/copilot)**
 </details>
 
-<details>
-<summary> Utilização da Inteligência Artificial para apoio em: </summary><br>
+<details><summary> Utilização da Inteligência Artificial para apoio em: </summary><br>
 ▸ Produtividade<br>
 ▸ Estudos<br>
 ▸ Automação<br>
@@ -63,40 +58,68 @@ ChatGPT • Gemini • N8N • Copilot <br>
 </details><br>
 
 
-<!-- Listagem de icons -->
+<!-- Competências em containers e blocos separados um do lado do outro -->
 ### ⭐ Competências & Hard Skills<br><br>
 
-<!-- Lista de Competências em containers e blocos separados um do lado do outro -->
-<!-- <section align="center" style="display: inline_block">
+<table><tr>
   
-<div align="center" height="50" width="50">
-<details>
-<summary> Testing </summary><br>
-  
-▸ 1<br>
-▸ 2<br>
-▸ 3<br>
-▸ 4<br>
-▸ 5<br>
-</details>
-</div>
+<td align="center"><details><summary> Testes </summary><br>
+- Exploratório<br>
+- Manuais<br>
+- Regressão<br>
+- Smoke Tests<br>
+- E2E UAT/PRD<br>
+- Web, Mobile e API<br>
+- LambdaTest<br>
+- Device Farm<br>
+</details></td>
 
-<div align="center" height="50" width="50">
-<details>
-<summary> Automation </summary><br>
-  
-▸ 1<br>
-▸ 2<br>
-▸ 3<br>
-▸ 4<br>
-▸ 5<br>
-</details>
-</div>
+<td align="center"><details><summary> Automação </summary><br>
+- Selenium<br>
+- Capybara<br>
+- Cucumber<br>
+- Robot Framework<br>
+- Jenkins<br>
+- BDD & Page Objects<br>
+</details></td>
 
-</section><br> -->
+<td align="center"><details><summary> API </summary><br>
+- Postman<br>
+- REST<br>
+- HTTP<br>
+- JSON<br>
+- Status Code<br>
+</details></td>
 
-Testes Exploratórios ▸ Testes Manuais ▸ Testes Automatizados Web ▸ Testes Automatizados API ▸ Testes Automatizados Mobile ▸ Testes de Regressão ▸ Testes E2E ▸ Gestão e análise de Bugs ▸ Melhoria de processos de QA
+<td align="center"><details><summary> Desenvolvimento </summary><br>
+- HTML<br>
+- CSS<br>
+- JavaScript<br>
+- Python<br>
+- Ruby<br>
+</details></td>
 
+<td align="center"><details><summary> Versionamento e Banco de Dados</summary><br>
+- Git<br>
+- GitHub<br>
+- Bitbucket<br>
+- SQL Server<br>
+- Test Data<br>
+</details></td>
+
+<td align="center"><details><summary> Metodologias e Gestão </summary><br>
+- Scrum<br>
+- Kanban<br>
+- Cascata<br>
+- Jira<br>
+- Zephyr<br>
+- Testlink<br>
+</details></td>
+
+</tr>
+</table>
+
+<!-- Listagem de icons -->
 <div align="center" style="display: inline_block">
   <a href ="https://github.com/" ><img align="center" alt="icone-GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
   <a href ="https://git-scm.com/" ><img align="center" alt="icone-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>

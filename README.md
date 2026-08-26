@@ -11,7 +11,7 @@
 <body><header><div align="center">
 <h1> QA Engineer | Test Automation | Web, API & Mobile Testing </h1>
 <p>
-Profissional de QA com experiência em testes manuais e automatizados, API Testing e validação de aplicações Web e Mobile... Busco soluções em automação utilizando diferentes linguagens e ferramentas de IA ou agentes... Apaixonado por trazer a qualidade dentro da equipe ou projeto, visando eficiência e uma entrega bem feita para o usuário final.<br>
+Profissional de QA com experiência em testes manuais e automatizados, API Testing e validação de aplicações Web e Mobile... Neste portfólio você encontrará diferentes projetos de automação e desenvolvimento Web, pois busco aplicar diferentes tecnologias para apoiar a qualidade e eficiência nas entregas.<br>
 Explore e conheça um pouco do meu trabalho!
 </p>
 <br></div></header>

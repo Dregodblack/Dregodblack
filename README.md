@@ -9,7 +9,7 @@
 
 <!--  Introdução -->
 <body><header><div align="center">
-<h1> QA Engineer | Test Automation | Web, API & Mobile Testing </h1>
+<h1> QA Engineer | Test Automation | Web, Mobile & API Testing </h1>
 <p>
 Profissional de QA com experiência em testes manuais e automatizados, API Testing e validação de aplicações Web e Mobile... Neste portfólio você encontrará diferentes projetos de automação e desenvolvimento Web, pois busco aplicar diferentes tecnologias para apoiar a qualidade e eficiência nas entregas.<br>
 Explore e conheça um pouco do meu trabalho!

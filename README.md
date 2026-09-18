@@ -146,9 +146,9 @@ ChatGPT • Gemini • N8N • Copilot <br>
 ### 🔗 Quer conhecer mais sobre meu trabalho?
 Vamos agendar um bate-papo, basta acessar alguns dos ícones abaixo e entrar em contato
 <div>
-   <a href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" ><img align="center" alt="icone-Linkedin" height="40" width="80" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
-   <a href= "mailto:nascimento.andreluis18@gmail.com" ><img align="center" alt="icone-Email" height="40" width="80" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">
-   <a href= "https://wa.me/qr/2D2GIABFAQ5NC1" ><img align="center" alt="icone-WhatsApp" height="40" width="80" src="https://img.icons8.com/?size=100&id=AltfLkFSP7XN&format=png&color=000000">
+   <a href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" ><img align="center" alt="icone-Linkedin" height="35" width="70" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+   <a href= "mailto:nascimento.andreluis18@gmail.com" ><img align="center" alt="icone-Email" height="35" width="70" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">
+   <a href= "https://wa.me/qr/2D2GIABFAQ5NC1" ><img align="center" alt="icone-WhatsApp" height="35" width="70" src="https://img.icons8.com/?size=100&id=AltfLkFSP7XN&format=png&color=000000">
 </div><br>
 
 

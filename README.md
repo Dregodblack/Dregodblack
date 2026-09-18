@@ -122,7 +122,8 @@ ChatGPT • Gemini • N8N • Copilot <br>
 
 <!-- Listagem de icons -->
 <div align="center" style="display: inline_block">
-  <a href ="https://github.com/" ><img align="center" alt="icone-GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>
+  <a href ="https://github.com/" ><img align="center" alt="icone-GitHub" height="35" width="45" src="https://github.com/user-attachments/assets/696bb2ac-720c-4752-b17e-1e905cab4809"/>
+  <a href ="https://github.com/" ><img align="center" alt="icone-GitHub" height="35" width="45" src="https://img.icons8.com/?size=100&id=zuHqpgzrusU5&format=png&color=000000"/>
   <a href ="https://git-scm.com/" ><img align="center" alt="icone-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
   <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="icone-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
   <a href ="https://www.postman.com/" ><img align="center" alt="icone-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>

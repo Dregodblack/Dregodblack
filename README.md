@@ -123,7 +123,6 @@ ChatGPT • Gemini • N8N • Copilot <br>
 <!-- Listagem de icons -->
 <div align="center" style="display: inline_block">
   <a href ="https://github.com/" ><img align="center" alt="icone-GitHub" height="35" width="45" src="https://github.com/user-attachments/assets/696bb2ac-720c-4752-b17e-1e905cab4809"/>
-  <a href ="https://github.com/" ><img align="center" alt="icone-GitHub" height="35" width="45" src="https://img.icons8.com/?size=100&id=zuHqpgzrusU5&format=png&color=000000"/>
   <a href ="https://git-scm.com/" ><img align="center" alt="icone-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
   <a href ="https://code.visualstudio.com/?wt.mc_id=DX_841432" ><img align="center" alt="icone-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
   <a href ="https://www.postman.com/" ><img align="center" alt="icone-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
@@ -147,10 +146,16 @@ ChatGPT • Gemini • N8N • Copilot <br>
 ### 🔗 Quer conhecer mais sobre meu trabalho?
 Vamos agendar um bate-papo, basta acessar alguns dos ícones abaixo e entrar em contato
 <div>
-  <a alt="icone-Linkedin" href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a alt="icone-Email" href ="mailto:nascimento.andreluis18@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a alt="icone-WhatsApp" href= "https://wa.me/qr/2D2GIABFAQ5NC1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   <a href= "https://www.linkedin.com/in/andr%C3%A9-luis-94baa220a/" ><img align="center" alt="icone-Linkedin" height="40" width="80" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+   <a href= "mailto:nascimento.andreluis18@gmail.com" ><img align="center" alt="icone-Email" height="40" width="80" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">
+   <a href= "https://wa.me/qr/2D2GIABFAQ5NC1" ><img align="center" alt="icone-WhatsApp" height="40" width="80" src="https://img.icons8.com/?size=100&id=AltfLkFSP7XN&format=png&color=000000">
 </div><br>
+
+
+<!-- gif Home-office -->
+<div>
+  <img alt="gif-Home-office" align="center" width="1100" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnOgorbD7h7URDTkIBb79KxN0p5X4dmMNvnV4-YC6hEbp5NSFN_hUJKodJpxZY23YXPJFLtzkBYHgaE6uHbou5Xb9oJH37nv8ry_5wEg6WKutLzSlCGK8tuvucdAuq6aL74q-erfvBNHFO/s1600/ROTINA-TRABALHA-E-DORME.gif"/>
+</div>
 
 
 <!-- gif cobrinha -->
@@ -161,12 +166,6 @@ Vamos agendar um bate-papo, basta acessar alguns dos ícones abaixo e entrar em 
     <img alt="gif_snake" src="https://raw.githubusercontent.com/Dregodblack/Dregodblack/output/github-contribution-grid-snake.svg">
   </picture>
 </div><br> -->
-
-
-<!-- gif Home-office -->
-<div>
-  <img alt="gif-Home-office" align="center" width="1100" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnOgorbD7h7URDTkIBb79KxN0p5X4dmMNvnV4-YC6hEbp5NSFN_hUJKodJpxZY23YXPJFLtzkBYHgaE6uHbou5Xb9oJH37nv8ry_5wEg6WKutLzSlCGK8tuvucdAuq6aL74q-erfvBNHFO/s1600/ROTINA-TRABALHA-E-DORME.gif"/>
-</div>
 
 </body>
 </html>

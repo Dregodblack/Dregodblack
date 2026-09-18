@@ -66,8 +66,9 @@ ChatGPT • Gemini • N8N • Copilot <br>
 <td align="center"><details><summary> Testes </summary><br>
 - Exploratório<br>
 - Manuais<br>
+- Automatizados<br>
 - Regressão<br>
-- Smoke Tests<br>
+- Smoke Test<br>
 - E2E UAT/PRD<br>
 - Web, Mobile e API<br>
 - LambdaTest<br>

@@ -29,7 +29,7 @@ Explore e conheça um pouco do meu trabalho!
 
 | 💻 Automações Web   | 📱 Automações Mobile | 🔌 API Testing      | 🌐 Aplicações Web    |
 |:---:                 |:---:                 |:---:                 |:---:                 |
-| 3                    | 2                    | 3                    | 1                    |
+| 2                    | 2                    | 3                    | 1                    |
 |**[TestWeb-RubyCucumber](https://github.com/Dregodblack/Test_Desafio)**|**[TestMobile-Python](https://github.com/Dregodblack/TestMobile-Python)**|**[TestAPI-PythonRobotF](https://github.com/Dregodblack/TestAPI-PythonRobotF)**     |**[Project_MusicPlayer-JavaScript](https://github.com/Dregodblack/Project_MusicPlayer-JavaScript)**|
 |**[TestWeb-PythonRobotF](https://github.com/Dregodblack/TestWeb-PythonRobotF)**|**[TestMobile-Ruby](https://github.com/Dregodblack/TestMobile-Ruby)**|**[TestAPI-RubyCucumber](https://github.com/Dregodblack/TestAPI-RubyCucumber)**|-|
 |-|-|**[Test_Web_API-PythonRobotF](https://github.com/Dregodblack/Test_Web_API-PythonRobotF)**|-| 
